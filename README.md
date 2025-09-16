@@ -20,5 +20,3 @@ It predicts the next word in a sentence, enhancing typing efficiency, autocomple
 - 📊 Datasets library  
 
 ---
-
-## 📂 Project Structure  
